@@ -1,24 +1,18 @@
 # To Do List App
 
-A simple command-line To Do List application built using Python.
+A simple command-line To-Do List application built using Python.
 
 ## Features
 
 - Add Tasks
 - View Tasks
-- Delete Tasks
+- Remove Tasks
 - Exit Application
 
-## Technologies Used
+## Tech Stack
 
 - Python
 
-## How to Run
+## Run
 
-```bash
 python todo_list.py
-```
-
-## Author
-
-Gagan Singh
